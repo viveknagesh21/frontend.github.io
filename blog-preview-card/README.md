@@ -59,6 +59,7 @@ Users should be able to:
 ### Continued development
 
 - I try experimenting this card style in further challenge.
+- Later Adding KeyFrames for animation on hover
 
 ## Author
 
