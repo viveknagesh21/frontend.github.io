@@ -64,4 +64,4 @@ Users should be able to:
 
 - Website - [Vivek Nagesh](https://viveknagesh.me)
 - Frontend Mentor - [@viveknagesh21](https://www.frontendmentor.io/profile/viveknagesh21)
-- Twitter - [@yourusername](https://www.twitter.com/viveknagesh21)
+- Twitter - [@viveknagesh21](https://www.twitter.com/viveknagesh21)
